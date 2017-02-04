@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     yangyanruo
-zhihu_username:     yangyanruo
+weibo_username:    	楊仰言若 
+zhihu_username:     Yanruo
 github_username:    yyanruo
 #twitter_username:  huxpro
-facebook_username:  yangyanruo
+facebook_username:  楊言若
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -27,7 +27,7 @@ highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
-anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+anchorjs: true                  # if you want to customize anchor. check out line:181 of `post.html`
 
 
 
@@ -71,7 +71,7 @@ ga_domain: www.yanruo.win
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "用以致学"
+sidebar-about-description: "常想一二，不思八九"
 sidebar-avatar: /img/avatar-yanruo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
