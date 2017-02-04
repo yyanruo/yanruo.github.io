@@ -3,20 +3,20 @@ title: Yanruo
 SEOTitle: 言若 | Yanruo Blog
 header-img: img/home-bg.jpg
 email: yangyanruo@gmail.com
-description: "xxxxxxxxxxxxxx"
+description: "Stay hungry, stay foolish and be brave"
 keyword: "Yanruo, 言若"
-url: "https://yanruo.win"              # your host, for absolute URL
+url: "https://yanruo.win"                    # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:    	楊仰言若 
-zhihu_username:     Yanruo
+weibo_username:    	2672872157
+zhihu_username:     yang-yan-84-99
 github_username:    yyanruo
 #twitter_username:  huxpro
-facebook_username:  楊言若
+facebook_username:  yyanruo
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -48,12 +48,12 @@ kramdown:
 
 
 # Disqus settings
-#disqus_username: _your_disqus_short_name_
+# disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+# duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+# duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -71,7 +71,7 @@ ga_domain: www.yanruo.win
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "常想一二，不思八九"
+sidebar-about-description: "主角我不能怂，要多读书"
 sidebar-avatar: /img/avatar-yanruo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -85,7 +85,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Test",
+        title: "hux",
         href: "http://huangxuan.me"
     },{
         title: "仰园",
