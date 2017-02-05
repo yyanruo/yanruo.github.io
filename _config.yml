@@ -71,7 +71,7 @@ ga_domain: www.yanruo.win
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "主角我不能怂，要多读书"
+sidebar-about-description: "主角我不能怂，书还没读完"
 sidebar-avatar: /img/avatar-yanruo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
