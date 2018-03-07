@@ -4,13 +4,14 @@ title:      "2017，一切出繁入简"
 subtitle:   ""
 date:       2018-01-01
 author:     "yanruo"
-header-img: "img/2017everything-gone/285F8D2E-BB09-4FE5-9092-04AEB279C057.jpg"
+header-img: "img/post-bg-2015.jpg"
 tags:
     - 生活
 ---
 
 ### 前言
 
+![](/img/in-post/2017everything-gone/285F8D2E-BB09-4FE5-9092-04AEB279C057.png)
 
 从使用Mac以及各种数码产品开始，我似乎就陷入了效率与时间的哲学问题中，一方面我不断寻找合适软件以提高我的学习效率，另一方面在空闲时又在花着时间谋求提高效率。如悖论一般，我大部分时间花在寻找“完美”软件上，并没有真正做到提高学习效率，却成了“伪效率”达人。
 
@@ -23,14 +24,14 @@ tags:
 ### 生活：从5S到X
 
 5年前我入手了第一部苹果产品5S，又先后配齐三件套Ipad、Mac以及Kindle。发现其实Ipad以及Kindle用的并不多，而16G的5S让我欢喜（养成删除不必要软件的习惯）让我忧（没空间不拍照片），也是佩服5S能跟我到今年。
-![](/img/2017everything-gone/74D57247-FB20-45F1-A04F-A2B8D1BAEC60.jpg)
+![](/img/in-post/2017everything-gone/74D57247-FB20-45F1-A04F-A2B8D1BAEC60.jpg)
 
 此前我会不加区分的使用ipad、5S和Mac上娱乐、学习和生活，而现在我通过对硬件功能化的划分来使自己更大程度地进入“沉浸式”的生活。
 - 生活-X：包含购物、IM、资讯等软件，原则是不在手机上进行娱乐。
 - 学习与工作-Mac：Mac只作为学习工具，查资料、编程、写文档、制作幻灯片等。
 - 娱乐-ipad：看视频、游戏等
 - 睡前阅读-Kindle：Kindle很适合看一些小说，于是解锁了unlimited会员，每晚睡前看半小时左右的Kindle。
-  ![](/img/2017everything-gone/D52CD24C-2E86-43C6-AB0B-6FF2FE1F6999.png)
+  ![](/img/in-post/2017everything-gone/D52CD24C-2E86-43C6-AB0B-6FF2FE1F6999.png)
 
 经过一段时间的实验发现，这样区分让我总体使用电子设备进行娱乐的时间降低，很多时候想看视频或者玩游戏拿出来只有手机（ipad不带），另外拿出手机的次数也慢慢变少。
 
@@ -49,7 +50,7 @@ tags:
 **简洁感**
 Bear的功能设计都非常简洁，最能体现莫过于标签
  不知Bear的标签是否借鉴了码农届的语言，采用井号的方式，用斜线来区分层级。 印象虽有标签却并不是用于边栏分类，这一细节带来的简洁感深深打动我，可以发现Bear的文章分类是基于每一篇文章，并不会出现有分类却无文章的情况。
-![](/img/2017everything-gone/60631CDB-985F-4023-A11F-025313261665.png)
+![](/img/in-post/2017everything-gone/60631CDB-985F-4023-A11F-025313261665.png)
 
 **记录**
 > Type in   
@@ -59,7 +60,7 @@ Bear的功能设计都非常简洁，最能体现莫过于标签
 - 笔记：结合图与文字的方式直接进行记录。
 - 日记：晚上用最简洁的方式记日记。
 
-![](/img/2017everything-gone/BBB24ED1-A7FA-41FF-A0B0-E5FAE7C6CC80.png)
+![](/img/in-post/2017everything-gone/BBB24ED1-A7FA-41FF-A0B0-E5FAE7C6CC80.png)
 
 
 
@@ -70,7 +71,7 @@ Bear的功能设计都非常简洁，最能体现莫过于标签
 少数派上的读者肯定对Workflow不陌生，很多文章都很有启发性，可我最初使用只是尝新，选择也都是推荐的workflow，使用度并不高。
 
 开始写workflow的契机是学校的网络通登陆实在是太麻烦，并且限制ip登录数量。于是开始研究如何通过一个按键登陆/登出网络，首先是写出了Alfred的版本，后来移植到Workflow上，便成了全设备使用的一个Workflow。
-![](/img/2017everything-gone/6722C3E4-43EB-411A-824E-79E2E69A1B56.png)
+![](/img/in-post/2017everything-gone/6722C3E4-43EB-411A-824E-79E2E69A1B56.png)
 
 ### 捯饬：从威锋到Price Tag
 
@@ -83,10 +84,10 @@ Bear的功能设计都非常简洁，最能体现莫过于标签
 讲讲我一个捯饬到有意思的软件。
 
 
-![](/img/2017everything-gone/p2462947899.jpg)
+![](/img/in-post/2017everything-gone/p2462947899.jpg)
 
 Answer：《春娇救志明》中的决策板很好玩，无意中发现IOS端也有一个类似的软件，还原度很高。
-![](/img/2017everything-gone/2018-01-10%2013_44_36.gif)
+![](/img/in-post/2017everything-gone/2018-01-10%2013_44_36.gif)
 
 
 ### 结语
