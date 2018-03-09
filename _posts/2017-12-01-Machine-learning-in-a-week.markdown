@@ -4,7 +4,7 @@ title:      "Machine learning in a week"
 subtitle:   "如何在一周内上手机器学习"
 date:       2017-12-01
 author:     "yanruo"
-header-img: "post-bg-alitrip"
+header-img: "post-bg-alitrip.jpg"
 tags:
     - 翻译
     - 机器学习
