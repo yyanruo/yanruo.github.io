@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "2017，一切出繁入简"
-subtitle:   ""
+subtitle:   "生活有时是做减法"
 date:       2018-01-01
 author:     "yanruo"
 header-img: "img/post-bg-2015.jpg"
